@@ -1,0 +1,185 @@
+.top{
+    background-color: rgb(62,139,197);
+    width:1000px ;
+    height: 100px;
+}
+.pic{
+    display: inline-block;
+    width: 30px;px ;
+    height: 30px; 
+    padding:4px ;
+    margin: ;
+}
+.icon{
+    position: relative;
+    top: 15px;
+    left:120px ;
+    
+}
+p.head{
+    color: white;
+    text-align: center;
+    font: size 1em;
+    position: absolute;
+    top :15px;
+    left:400px ;
+
+}
+.button{
+    width:200px ;
+     
+    position: absolute;
+    top: 15px;
+    right:30px ;
+}
+button{
+    margin:5px ;
+    background-color: antiquewhite;
+    border: none;
+}
+.logo{
+    width: 200px;
+    height:80px ;
+    position: relative;
+    left: 70px;
+
+}
+div.nevigate{
+    display: inline-block;
+    position: absolute;
+    top:130px ;
+    right:70px ;
+    text-align: left;
+
+}
+button.nevigate{
+    background-color: white;
+
+}
+button.nevigate:focus{
+    background-color: rgb(62,139,197);
+}
+.bkimage{
+    width: 1000px;
+    height:400px ;
+}
+.image{
+    background-color: white;
+    width:250px ;
+    height: 420px;
+    position:absolute ;
+    top: 180px;
+    left:50px ;
+}
+.abc{
+    position: relative;
+    left: 10px;
+}
+p.urdu{
+    text-align: center;
+}
+
+b{
+    font-size: 2em;
+    text-align: ;
+}
+p.student{
+    text-align:center ;
+    vertical-align:0.2em ;
+}
+fieldset.student{
+    background-color: gray;
+    text-align:center ;
+    padding:10px ;
+    margin: 10px;
+    position: relative;
+    top: 0px;
+}
+legend.student{
+    background-color: gray;
+}
+p.news{
+    background-color: blue;
+    color: white;
+    width:500px ;
+    text-align: center;
+    position: relative;
+    left:250px ;
+}
+h1.heading{
+    color: blueviolet;
+    position: relative;
+    left: 350px;
+    right: auto;
+}
+div.count{
+    width:1000px ;
+    height:200px ;
+    background-color: rgba(68, 68, 235, 0.918);
+    text-align: center ;
+}
+.count1{
+    color: white;
+    position: relative;
+    top:50px ;
+    right:330px ;
+}
+.count2{
+    color: white;
+    position: relative;
+    top:-55px ;
+    right:100px ;
+}
+.count3{
+    color: white;
+    position: relative;
+    top:-160px ;
+    left: 120px;
+}
+.count4{
+    color: white;
+    position: relative;
+    top:-265px ;
+    left:340px ;
+}
+h1.info{
+    font-size: 2.5em;
+    color: rgb(51, 136, 136);
+    position: relative;
+    left: 330px; ;
+}
+div.info{
+    margin: 13px;
+    color: ;
+    padding: 10px;
+    
+    width: 200px;
+    height: 80px;
+    border: none;
+    box-shadow:4px 4px 2px gray ;
+    background-color: rgb(253, 243, 243);
+    display: inline-block;
+}
+div.main{
+    text-align: justify;
+}
+div.main1{
+    
+    color: rgb(39, 39, 221);
+    position: relative;
+    left: 110px; ;
+}
+div.mainI{
+    text-align: center;
+    position: relative;
+    top:15px ;
+    
+}
+#II{
+    position: relative;
+    top:2px ;
+}
+#III{
+    position: relative;
+    top:2px ;
+}
